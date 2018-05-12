@@ -60,7 +60,7 @@
         tools:layout_editor_absoluteY="270dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonceateaccount"
         android:layout_width="300dp"
         android:layout_height="45dp"
         android:background="#FBC02D"

@@ -23,7 +23,9 @@
         <activity android:name=".HomeActivity" />
         <activity android:name=".FacebookActivity" />
         <activity android:name=".CeateaccountActivity" />
-        <activity android:name=".ForgotActivity"></activity>
+        <activity android:name=".ForgotActivity" />
+        <activity android:name=".WelcomeActivity" />
+        <activity android:name=".Adventure1Activity"></activity>
     </application>
 
 </manifest>
